@@ -5,6 +5,7 @@ This repository contains code for predicting vomitoxin (DON) concentration in co
 Repository Structure
 
 DON_Concentration_Prediction/
+
 │
 ├── app.py                Flask application for model deployment
 ├── model_training.ipynb  Jupyter Notebook with data preprocessing, training and evaluation
