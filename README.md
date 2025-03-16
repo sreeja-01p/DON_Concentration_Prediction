@@ -1,4 +1,4 @@
-DON Concentration Prediction
+**DON Concentration Prediction**
 
 This repository contains code for predicting vomitoxin (DON) concentration in corn samples using hyperspectral imaging data. The project includes data preprocessing, neural network model training in PyTorch and evaluation of model performance.
 
