@@ -7,8 +7,11 @@ Repository Structure
 DON_Concentration_Prediction/
 
 1.app.py                Flask application for model deployment
+
 2. model_training.ipynb  Jupyter Notebook with data preprocessing, training and evaluation
+
 3. README.md             This file
+
 4. Report.pdf
 
 Setup Instructions
