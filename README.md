@@ -16,7 +16,7 @@ Setup Instructions
 Clone the Repository:
 git clone https://github.com/sreeja-01p/DON_Concentration_Prediction.git
 
-cd DON_Concentration_Prediction
+'''cd DON_Concentration_Prediction'''
 
 Install dependencies which include PyTorch, scikit-learn, pandas, matplotlib, seaborn and flask
 
