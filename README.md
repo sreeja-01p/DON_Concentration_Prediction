@@ -14,9 +14,10 @@ DON_Concentration_Prediction/
 Setup Instructions
 
 Clone the Repository:
+```
 git clone https://github.com/sreeja-01p/DON_Concentration_Prediction.git
-
-'''cd DON_Concentration_Prediction'''
+cd DON_Concentration_Prediction
+```
 
 Install dependencies which include PyTorch, scikit-learn, pandas, matplotlib, seaborn and flask
 
@@ -26,6 +27,6 @@ Open DON_concentration_prediction.ipynb in Colab and follow the instructions to 
 The notebook saves the trained model (model.pth) and the scaler (scaler.pkl).
 
 Run the Flask App:
-python app.py
+```python app.py```
 
 The current best model predicts DON concentration with MAE 3815.786, RMSE: 10459.727 and R² score: 0.609
