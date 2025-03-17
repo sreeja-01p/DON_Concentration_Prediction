@@ -5,6 +5,7 @@ This repository contains code for predicting vomitoxin (DON) concentration in co
 Repository Structure
 
 DON_Concentration_Prediction/
+
 1.app.py                Flask application for model deployment
 2. model_training.ipynb  Jupyter Notebook with data preprocessing, training and evaluation
 3. README.md             This file
@@ -14,6 +15,7 @@ Setup Instructions
 
 Clone the Repository:
 git clone https://github.com/sreeja-01p/DON_Concentration_Prediction.git
+
 cd DON_Concentration_Prediction
 
 Install dependencies which include PyTorch, scikit-learn, pandas, matplotlib, seaborn and flask
